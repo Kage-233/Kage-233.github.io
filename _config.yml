@@ -101,6 +101,4 @@ theme: fluid
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: git@gitee.com:iskage/iskage.gitee.io.git
-  branch: main
+  type: ''
